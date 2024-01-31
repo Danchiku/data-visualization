@@ -1,0 +1,3 @@
+- basic data visualization
+- automatic file reading
+- plot fitting
